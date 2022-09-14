@@ -4,6 +4,7 @@
 
 ## Functionality
 
-- The virtual keyboard is able to switch between two language layouts (English + Russian). Use shortcut: left Ctrl + Alt.
+- The virtual keyboard is able to switch between two language (English + Russian). Use shortcut: left Ctrl + Alt.
 - Pressing a key on a physical keyboard highlights the key on the virtual keyboard. Keystrokes are animated.
 - Clicks on the buttons with a mouse on the virtual keyboard and pressing keys on a physical keyboard input symbols to the textarea located on the page above the virtual keyboard.
+- Usage of Shift on the virtual keyboard: you need to press the left Shift button with the mouse, and then move the mouse to another area without releasing it. This will activate other symbols. See below.
