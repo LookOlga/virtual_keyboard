@@ -10,3 +10,7 @@
 - Usage of Shift on the virtual keyboard: you need to press the left Shift button with the mouse, and then move the mouse to another area without releasing it. This will activate other symbols. See below.
 
 ![keyboard](https://user-images.githubusercontent.com/64134232/190251529-bf8770bb-bb20-4c4d-8fbd-9602a9f42274.gif)
+
+
+https://user-images.githubusercontent.com/64134232/190253604-82797a62-ba3c-47e7-81b5-549fed630ddc.mp4
+
